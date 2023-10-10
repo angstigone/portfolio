@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 This is the repository containing all my projects, that I have mainly created for the Digital Humanities and Digital Knowledge Master's Degree of the University of Bologna. 
 
