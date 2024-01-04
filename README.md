@@ -1,6 +1,11 @@
 # Portfolio
 
-This is the repository containing all my projects, that I have mainly created for the Digital Humanities and Digital Knowledge Master's Degree of the University of Bologna. 
+This is the repository containing all my projects, that I have created for the Digital Humanities and Digital Knowledge Master's Degree of the University of Bologna. 
+
+<h1>Final Project & Dissertation</h1>
+<p>I am currently working on my final dissertation for my master's degree under the tutelage of <a href="https://www.unibo.it/sitoweb/paola.italia">prof. Paola Maria Carmela Italia</a> and <a href="https://www.unibo.it/sitoweb/francesca.tomasi/teachings">prof. Francesca Tomasi</a>. The project - <i>OpenGadda: The Transmedial Archives</i> - is currently developing an integrated digital product of Carlo Emilio's Gadda archives. This project will allow the users to both browse through the entirety of the auhtor's own archives and to visualize the data extracted from them.</p>
+
+<p>Here you can find <a href="https://github.com/numgadda/numgaddasite.git">repository</a> and the <a href="https://numgadda.github.io/numgaddasite/index.html">website</a> of the project, which is still a work in progress.</p>
 
 <h1>Academic Year 2022/23</h1>
 <ul>
